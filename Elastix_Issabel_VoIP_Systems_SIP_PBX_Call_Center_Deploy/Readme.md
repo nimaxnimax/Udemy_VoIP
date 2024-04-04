@@ -189,6 +189,10 @@ Elastix 2.5 Stable Version >> https://archive.org/download/Elastix2.5.0StableI38
 
 Elastix 2.0 >> https://sourceforge.net/projects/elastix/files/Elastix%20PBX%20Appliance%20Software/5.0.0/
 
+Elastix ISO Image 2.4 >> http://mirror-prg.webglobe.com/archive/cloud2private/iso/os/elastix/
+
+Elastix ISO Image 2.5 >> https://ftp.psu.ac.th/pub/psulab/elastix/
+
 Installation Guide >> https://master.dl.sourceforge.net/project/elastix/Tutorials_Docs_Manuals/Elastix%202.0%20Guides/ELASTIX%202%20Installation%20Guide.pdf?viasf=1
 
 Developyment >> https://master.dl.sourceforge.net/project/elastix/Tutorials_Docs_Manuals/Elastix%20Development%20Manual/development_manual-elastix-.pdf?viasf=1
