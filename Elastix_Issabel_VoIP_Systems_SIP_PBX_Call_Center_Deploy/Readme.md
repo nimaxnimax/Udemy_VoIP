@@ -49,7 +49,7 @@ Disadvantages of Elastix:
 
 **********
 
-Issable
+issabel
 
 Issabel is an open-source Unified Communications platform and IP PBX solution that serves as an alternative to Elastix. It originated as a fork of Elastix, incorporating additional features and improvements while maintaining compatibility with Asterisk, the underlying PBX software. Issabel offers a comprehensive suite of communication tools, including VoIP, email, fax, instant messaging, and more, making it suitable for businesses of all sizes.
 
@@ -69,7 +69,7 @@ Ultimately, the decision to choose Issabel over Elastix or vice versa depends on
 
 **********
 
-Comparing Elastix and Issable
+Comparing Elastix and issabel
 
 **Architecture:**
 - Elastix is built on the Asterisk open-source PBX platform, offering a comprehensive suite of communication tools and features.
@@ -122,7 +122,7 @@ SIP vs Trunking vs VoIP
 
 **********
 
-How to Download and Install Elastix and Issable
+How to Download and Install Elastix and issabel
 
 Downloading and installing Elastix and Issabel involves several steps. Below are general instructions for each:
 
